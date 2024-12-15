@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Avogadro 1.99.0\n"
 "Report-Msgid-Bugs-To: avogadro-devel@lists.sourceforge.net\n"
-"POT-Creation-Date: 2024-11-10 20:44+0000\n"
+"POT-Creation-Date: 2024-12-15 02:49+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -489,7 +489,7 @@ msgstr ""
 
 #. i18n: file: qtplugins/templatetool/templatetoolwidget.ui:66
 #. i18n: ectx: property (text), item, widget (QComboBox, elementComboBox)
-#: qtgui/elementtranslator.cpp:34 :1917
+#: qtgui/elementtranslator.cpp:34 :1929
 msgid "Carbon"
 msgstr ""
 
@@ -571,13 +571,13 @@ msgstr ""
 
 #. i18n: file: qtplugins/templatetool/templatetoolwidget.ui:71
 #. i18n: ectx: property (text), item, widget (QComboBox, elementComboBox)
-#: qtgui/elementtranslator.cpp:94 :1920
+#: qtgui/elementtranslator.cpp:94 :1932
 msgid "Iron"
 msgstr ""
 
 #. i18n: file: qtplugins/templatetool/templatetoolwidget.ui:76
 #. i18n: ectx: property (text), item, widget (QComboBox, elementComboBox)
-#: qtgui/elementtranslator.cpp:97 :1923
+#: qtgui/elementtranslator.cpp:97 :1935
 msgid "Cobalt"
 msgstr ""
 
@@ -1294,7 +1294,7 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QLabel, label)
 #: qtgui/rwlayermanager.cpp:220 qtgui/rwlayermanager.cpp:223
 #: qtplugins/select/select.cpp:564
-#: qtplugins/selectiontool/selectiontool.cpp:262 :1628
+#: qtplugins/selectiontool/selectiontool.cpp:262 :1640
 msgid "Change Layer"
 msgstr ""
 
@@ -1496,7 +1496,7 @@ msgstr ""
 
 #. i18n: file: qtplugins/spectra/spectradialog.ui:281
 #. i18n: ectx: property (text), widget (QLabel, label_6)
-#: qtplugins/aligntool/aligntool.cpp:83 :1685
+#: qtplugins/aligntool/aligntool.cpp:83 :1697
 msgid "Axis:"
 msgstr ""
 
@@ -1769,7 +1769,7 @@ msgstr ""
 #: qtplugins/applycolors/applycolors.cpp:122
 #: qtplugins/applycolors/applycolors.cpp:210
 #: qtplugins/applycolors/applycolors.cpp:302
-#: qtplugins/surfaces/surfaces.cpp:776 :183 rc.cpp:1782
+#: qtplugins/surfaces/surfaces.cpp:776 :183 rc.cpp:1794
 msgctxt "colormap"
 msgid "Spectral"
 msgstr ""
@@ -1779,7 +1779,7 @@ msgstr ""
 #. i18n: file: qtplugins/surfaces/surfacedialog.ui:169
 #. i18n: ectx: property (text), item, widget (QComboBox, colormapCombo)
 #: qtplugins/applycolors/applycolors.cpp:124
-#: qtplugins/surfaces/surfaces.cpp:778 :180 rc.cpp:1779
+#: qtplugins/surfaces/surfaces.cpp:778 :180 rc.cpp:1791
 msgctxt "colormap"
 msgid "Coolwarm"
 msgstr ""
@@ -1789,7 +1789,7 @@ msgstr ""
 #. i18n: file: qtplugins/surfaces/surfacedialog.ui:159
 #. i18n: ectx: property (text), item, widget (QComboBox, colormapCombo)
 #: qtplugins/applycolors/applycolors.cpp:126
-#: qtplugins/surfaces/surfaces.cpp:780 :174 rc.cpp:1773
+#: qtplugins/surfaces/surfaces.cpp:780 :174 rc.cpp:1785
 msgctxt "colormap"
 msgid "Balance"
 msgstr ""
@@ -1799,7 +1799,7 @@ msgstr ""
 #. i18n: file: qtplugins/surfaces/surfacedialog.ui:164
 #. i18n: ectx: property (text), item, widget (QComboBox, colormapCombo)
 #: qtplugins/applycolors/applycolors.cpp:128
-#: qtplugins/surfaces/surfaces.cpp:782 :177 rc.cpp:1776
+#: qtplugins/surfaces/surfaces.cpp:782 :177 rc.cpp:1788
 msgctxt "colormap"
 msgid "Blue-DarkRed"
 msgstr ""
@@ -1811,7 +1811,7 @@ msgstr ""
 #: qtplugins/applycolors/applycolors.cpp:130
 #: qtplugins/applycolors/applycolors.cpp:210
 #: qtplugins/applycolors/applycolors.cpp:302
-#: qtplugins/surfaces/surfaces.cpp:784 :186 rc.cpp:1785
+#: qtplugins/surfaces/surfaces.cpp:784 :186 rc.cpp:1797
 msgctxt "colormap"
 msgid "Turbo"
 msgstr ""
@@ -1845,7 +1845,7 @@ msgstr ""
 #. i18n: file: qtplugins/surfaces/surfacedialog.ui:143
 #. i18n: ectx: property (text), widget (QLabel, label_7)
 #: qtplugins/applycolors/applycolors.cpp:213
-#: qtplugins/applycolors/applycolors.cpp:305 :171 rc.cpp:1770
+#: qtplugins/applycolors/applycolors.cpp:305 :171 rc.cpp:1782
 msgid "Colormap:"
 msgstr ""
 
@@ -2189,7 +2189,7 @@ msgstr ""
 #: qtplugins/templatetool/templatetoolwidget.cpp:345
 #: qtplugins/templatetool/templatetoolwidget.cpp:353
 #: qtplugins/templatetool/templatetoolwidget.cpp:361
-#: qtplugins/templatetool/templatetoolwidget.cpp:424 :2055
+#: qtplugins/templatetool/templatetoolwidget.cpp:424 :2067
 msgid "Other…"
 msgstr ""
 
@@ -2311,7 +2311,7 @@ msgstr ""
 #. i18n: file: qtplugins/surfaces/surfacedialog.ui:390
 #. i18n: ectx: property (text), item, widget (QComboBox, smoothingCombo)
 #: qtplugins/coordinateeditor/coordinateeditordialog.cpp:638
-#: qtplugins/label/label.cpp:173 :1812 rc.cpp:1842
+#: qtplugins/label/label.cpp:173 :1824 rc.cpp:1854
 msgid "Custom"
 msgstr ""
 
@@ -2459,7 +2459,7 @@ msgstr ""
 #. i18n: file: qtplugins/openbabel/conformersearchdialog.ui:196
 #. i18n: ectx: property (text), item, widget (QComboBox, scoringComboBox)
 #: qtplugins/cp2kinput/cp2kinputdialog.cpp:260
-#: qtplugins/forcefield/forcefield.cpp:97 :1172
+#: qtplugins/forcefield/forcefield.cpp:97 :1184
 msgid "Energy"
 msgstr ""
 
@@ -2500,7 +2500,7 @@ msgstr ""
 
 #. i18n: file: qtplugins/openmminput/openmminputdialog.ui:303
 #. i18n: ectx: property (text), item, widget (QComboBox, nonBondedMethodCombo)
-#: qtplugins/cp2kinput/cp2kinputdialog.cpp:365 :1352
+#: qtplugins/cp2kinput/cp2kinputdialog.cpp:365 :1364
 msgid "PME"
 msgstr ""
 
@@ -2729,7 +2729,7 @@ msgstr ""
 #. i18n: ectx: property (currentText), widget (QComboBox, resolutionCombo)
 #. i18n: file: qtplugins/surfaces/surfacedialog.ui:249
 #. i18n: ectx: property (text), item, widget (QComboBox, resolutionCombo)
-#: qtplugins/editor/editortoolwidget.cpp:208 :1791 rc.cpp:1809
+#: qtplugins/editor/editortoolwidget.cpp:208 :1803 rc.cpp:1821
 msgid "Automatic"
 msgstr ""
 
@@ -3148,7 +3148,7 @@ msgstr ""
 #. i18n: ectx: property (text), item, widget (QComboBox, propertyCombo)
 #. i18n: file: qtplugins/surfaces/surfacedialog.ui:370
 #. i18n: ectx: property (text), item, widget (QComboBox, smoothingCombo)
-#: qtplugins/label/label.cpp:163 qtplugins/label/label.cpp:192 :1361
+#: qtplugins/label/label.cpp:163 qtplugins/label/label.cpp:192 :1373
 msgid "None"
 msgstr ""
 
@@ -3283,7 +3283,7 @@ msgid ""
 "Manipulation Tool\n"
 "\n"
 "Left Mouse: \tClick and drag to move atoms\n"
-"Right Mouse: \tClick and drag to rotate selected atoms.\n"
+"Right Mouse: \tClick and drag to rotate atoms.\n"
 msgstr ""
 
 #: qtplugins/manipulator/manipulator.h:36
@@ -3326,7 +3326,7 @@ msgstr ""
 
 #. i18n: file: qtplugins/qtaim/qtaimsettingswidget.ui:157
 #. i18n: ectx: property (text), widget (QLabel, opacitySliderLabel)
-#: qtplugins/meshes/meshes.cpp:167 :1619
+#: qtplugins/meshes/meshes.cpp:167 :1631
 msgid "Opacity:"
 msgstr ""
 
@@ -3812,7 +3812,7 @@ msgstr ""
 
 #. i18n: file: qtplugins/openmminput/openmminputdialog.ui:81
 #. i18n: ectx: property (placeholderText), widget (QLineEdit, inputTopEdit)
-#: qtplugins/openmminput/openmminputdialog.cpp:497 :1262
+#: qtplugins/openmminput/openmminputdialog.cpp:497 :1274
 msgid "input.prmtop"
 msgstr ""
 
@@ -3842,7 +3842,7 @@ msgstr ""
 #. i18n: file: qtplugins/openmminput/openmminputdialog.ui:808
 #. i18n: ectx: property (text), item, widget (QComboBox, minimizeCombo)
 #: qtplugins/openmminput/openmminputdialog.cpp:1060
-#: qtplugins/openmminput/openmminputdialog.cpp:1069 :1379 rc.cpp:1394
+#: qtplugins/openmminput/openmminputdialog.cpp:1069 :1391 rc.cpp:1406
 msgid "True"
 msgstr ""
 
@@ -3885,7 +3885,7 @@ msgstr ""
 
 #. i18n: file: qtplugins/surfaces/surfacedialog.ui:432
 #. i18n: ectx: property (text), widget (QLabel, frameLabel)
-#: qtplugins/playertool/playertool.cpp:117 :1845
+#: qtplugins/playertool/playertool.cpp:117 :1857
 msgid "Frame:"
 msgstr ""
 
@@ -3902,7 +3902,7 @@ msgstr ""
 
 #. i18n: file: qtplugins/surfaces/surfacedialog.ui:528
 #. i18n: ectx: property (text), widget (QPushButton, recordButton)
-#: qtplugins/playertool/playertool.cpp:143 :1851
+#: qtplugins/playertool/playertool.cpp:143 :1863
 msgid "Record Movie…"
 msgstr ""
 
@@ -4087,7 +4087,7 @@ msgstr ""
 
 #. i18n: file: qtplugins/plugindownloader/downloaderwidget.ui:14
 #. i18n: ectx: property (windowTitle), widget (QDialog, DownloaderWidget)
-#: qtplugins/plugindownloader/plugindownloader.cpp:27 :1601
+#: qtplugins/plugindownloader/plugindownloader.cpp:27 :1613
 msgid "Download Plugins…"
 msgstr ""
 
@@ -4500,7 +4500,7 @@ msgstr ""
 
 #. i18n: file: qtplugins/symmetry/symmetrywidget.ui:186
 #. i18n: ectx: property (text), widget (QPushButton, selectSubgroupButton)
-#: qtplugins/select/select.h:30 :1884
+#: qtplugins/select/select.h:30 :1896
 msgid "Select"
 msgstr ""
 
@@ -4538,7 +4538,7 @@ msgstr ""
 
 #. i18n: file: qtplugins/symmetry/symmetrywidget.ui:99
 #. i18n: ectx: property (text), widget (QPushButton, symmetrizeMoleculeButton)
-#: qtplugins/spacegroup/spacegroup.cpp:68 :1869
+#: qtplugins/spacegroup/spacegroup.cpp:68 :1881
 msgid "Symmetrize"
 msgstr ""
 
@@ -4655,7 +4655,7 @@ msgstr ""
 
 #. i18n: file: qtplugins/spectra/spectradialog.ui:75
 #. i18n: ectx: attribute (title), widget (QWidget, tab_spectra)
-#: qtplugins/spectra/spectra.h:36 :1643
+#: qtplugins/spectra/spectra.h:36 :1655
 msgid "Spectra"
 msgstr ""
 
@@ -4889,7 +4889,7 @@ msgstr ""
 
 #. i18n: file: qtplugins/symmetry/symmetrywidget.ui:14
 #. i18n: ectx: property (windowTitle), widget (QWidget, Avogadro::QtPlugins::SymmetryWidget)
-#: qtplugins/symmetry/symmetry.h:34 :1854
+#: qtplugins/symmetry/symmetry.h:34 :1866
 msgid "Symmetry"
 msgstr ""
 
@@ -5717,11 +5717,11 @@ msgstr ""
 #. i18n: ectx: property (suffix), widget (QDoubleSpinBox, gamma)
 #. i18n: file: qtplugins/crystal/unitcelldialog.ui:201
 #. i18n: ectx: property (suffix), widget (QDoubleSpinBox, beta)
-#. i18n: file: qtplugins/manipulator/manipulatewidget.ui:114
+#. i18n: file: qtplugins/manipulator/manipulatewidget.ui:147
 #. i18n: ectx: property (suffix), widget (QDoubleSpinBox, xRotateSpinBox)
-#. i18n: file: qtplugins/manipulator/manipulatewidget.ui:130
+#. i18n: file: qtplugins/manipulator/manipulatewidget.ui:163
 #. i18n: ectx: property (suffix), widget (QDoubleSpinBox, yRotateSpinBox)
-#. i18n: file: qtplugins/manipulator/manipulatewidget.ui:146
+#. i18n: file: qtplugins/manipulator/manipulatewidget.ui:179
 #. i18n: ectx: property (suffix), widget (QDoubleSpinBox, zRotateSpinBox)
 #. i18n: file: qtplugins/plotxrd/xrdoptionsdialog.ui:26
 #. i18n: ectx: property (suffix), widget (QDoubleSpinBox, spin_max2Theta)
@@ -6609,34 +6609,54 @@ msgstr ""
 msgid "Translate by:"
 msgstr ""
 
-#. i18n: file: qtplugins/manipulator/manipulatewidget.ui:159
-#. i18n: ectx: property (text), widget (QLabel, label_6)
-msgid "X-axis"
-msgstr ""
-
-#. i18n: file: qtplugins/manipulator/manipulatewidget.ui:166
-#. i18n: ectx: property (text), widget (QLabel, label_7)
-msgid "Y-axis"
-msgstr ""
-
-#. i18n: file: qtplugins/manipulator/manipulatewidget.ui:173
-#. i18n: ectx: property (text), widget (QLabel, label_8)
-msgid "Z-axis"
-msgstr ""
-
-#. i18n: file: qtplugins/manipulator/manipulatewidget.ui:180
+#. i18n: file: qtplugins/manipulator/manipulatewidget.ui:114
 #. i18n: ectx: property (text), widget (QLabel, label_2)
 msgid "Rotate around:"
 msgstr ""
 
-#. i18n: file: qtplugins/manipulator/manipulatewidget.ui:188
+#. i18n: file: qtplugins/manipulator/manipulatewidget.ui:122
 #. i18n: ectx: property (text), item, widget (QComboBox, rotateComboBox)
 msgid "Origin"
 msgstr ""
 
-#. i18n: file: qtplugins/manipulator/manipulatewidget.ui:193
+#. i18n: file: qtplugins/manipulator/manipulatewidget.ui:127
 #. i18n: ectx: property (text), item, widget (QComboBox, rotateComboBox)
-msgid "Geometry"
+msgid "Center of Molecule"
+msgstr ""
+
+#. i18n: file: qtplugins/manipulator/manipulatewidget.ui:132
+#. i18n: ectx: property (text), item, widget (QComboBox, rotateComboBox)
+msgid "Center of Selection"
+msgstr ""
+
+#. i18n: file: qtplugins/manipulator/manipulatewidget.ui:192
+#. i18n: ectx: property (text), widget (QLabel, label_6)
+msgid "X-axis"
+msgstr ""
+
+#. i18n: file: qtplugins/manipulator/manipulatewidget.ui:199
+#. i18n: ectx: property (text), widget (QLabel, label_7)
+msgid "Y-axis"
+msgstr ""
+
+#. i18n: file: qtplugins/manipulator/manipulatewidget.ui:206
+#. i18n: ectx: property (text), widget (QLabel, label_8)
+msgid "Z-axis"
+msgstr ""
+
+#. i18n: file: qtplugins/manipulator/manipulatewidget.ui:220
+#. i18n: ectx: property (text), widget (QLabel, label_9)
+msgid "Move:"
+msgstr ""
+
+#. i18n: file: qtplugins/manipulator/manipulatewidget.ui:228
+#. i18n: ectx: property (text), item, widget (QComboBox, moveComboBox)
+msgid "Selected Atoms"
+msgstr ""
+
+#. i18n: file: qtplugins/manipulator/manipulatewidget.ui:233
+#. i18n: ectx: property (text), item, widget (QComboBox, moveComboBox)
+msgid "Everything Else"
 msgstr ""
 
 #. i18n: file: qtplugins/openbabel/conformersearchdialog.ui:14
